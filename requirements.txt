@@ -4,3 +4,6 @@ scikit-learn
 matplotlib
 numpy
 torch==2.1.0
+transformers
+safetensors
+
